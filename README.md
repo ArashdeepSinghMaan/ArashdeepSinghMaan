@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -  Skills
 -->
-# README
+
 
 ## Background
 Currently pursuing an M.Tech in Robotics and Mobility Systems at IIT Jodhpur, I am deeply committed to integrating advanced robotics with agricultural practices to drive innovation and sustainability. My journey from Agricultural Entrepreneur and Manager to robotics engineer reflects a focused dedication to leveraging technology for transformative impact in agriculture.
