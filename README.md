@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ###Projects
-• **Development of an Underwater Vehicle and Depth Control System through Active Buoyancy Management** May 2024
+• ** Development of an Underwater Vehicle and Depth Control System through Active Buoyancy Management ** May 2024
 Developing a capsule capable of floating and working underwater. This capsule works on buoyancy management.
 This capsule will be integrated with an amphibious drone, allowing it to work in air, on water, and underwater.
 Tools & technologies used: Matlab, Solidworks, Robot Operating System,Arduino,Sensor Integration
