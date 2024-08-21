@@ -13,34 +13,71 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-  Skills
 -->
-###Projects
-• ** Development of an Underwater Vehicle and Depth Control System through Active Buoyancy Management ** May 2024
-Developing a capsule capable of floating and working underwater. This capsule works on buoyancy management.
-This capsule will be integrated with an amphibious drone, allowing it to work in air, on water, and underwater.
-Tools & technologies used: Matlab, Solidworks, Robot Operating System,Arduino,Sensor Integration
-•** Perception of Unknown Environment, Path Planning, Obstacle Avoidance, and Autonomous Navigation **
-The aim of this project was to create a campus like environment in gazebo. Then using a robot first sense this
-environment and make a map of this environment. Robot will open to environmental changes. After perception
-robot will do path planning in the campus. The main work of the robot will be to guide others to move from one
-location to another. It is simulation based project for Autonomus Systems.
-• **Leader-Follower Formation Control of Non-Holonomic Mobile Robots**
-The key aspects of the project are: Understanding the kinematics of differential drive wheeled mobile robots
-(WMRs), Modeling the leader-follower formation using relative distance and angle between robots,Designing
-Lyapunov-based controllers for position, velocity, and orientation control, Simulating line and circular formations
-using the derived control laws
-Skills: Robotic Kinematics, Formation Control, Lyapunov Stability Analysis, Simulation and Visualization using
-Matlab, Problem-Solving and Mathematical Modeling
-•** Voice-Controlled Smart Home Automation System with Sensor Integration**
-Developed a voice-controlled smart home system using an Arduino Nano 33 BLE Sense microcontroller. The key
-features included implementing a word recognition system for appliance control, integrating environmental sensors
-(temperature, humidity, light), utilizing relays to connect low-power signals to appliances, and deploying machine
-learning models with TensorFlow Lite for Microcontrollers. The result was an intelligent, sensor-driven home
-automation solution.
-Skills:Hardware-Software Integration,Voice Recognition,Machine Learning Integration,Sensor
-Integration,Embedded System Design
-•** Underwater Pipeline Detection using computer vision**
-Designed and Implemented a Novel Pipeline: Integrated a range of computer vision algorithms and filters
-including LAB color space conversion, Gaussian blurring, adaptive histogram equalization, Canny edge detection,
-morphological operations, probabilistic Hough transform, and adaptive region of interest selection, leading to
-improved detection accuracy.
+# README
+
+## Background
+Currently pursuing an M.Tech in Robotics and Mobility Systems at IIT Jodhpur, I am deeply committed to integrating advanced robotics with agricultural practices to drive innovation and sustainability. My journey from Agricultural Entrepreneur and Manager to robotics engineer reflects a focused dedication to leveraging technology for transformative impact in agriculture.
+
+With a B.Tech in Mechanical Engineering, I bring a robust foundation in engineering principles that enhances my approach to developing efficient, eco-friendly solutions. My experience at Nestlé, where I optimized warehouse layouts to boost productivity, further honed my skills in industrial engineering. I am proficient in Mathematical Modeling and Simulation, ROS, Sensor Integration, Robot Programming, Path Planning, Computer Vision, Artificial Intelligence, experimental research, and data analysis. I hold certifications and have completed projects in MATLAB, Python, Machine Learning, and SOLIDWORKS, which equip me to tackle the complexities of robotics applications.
+
+I am passionate about advancing agricultural standards through cutting-edge robotics, striving to create sustainable solutions that address global challenges and have a lasting impact on the industry.
+
+## Projects
+
+### Development of an Underwater Vehicle and Depth Control System through Active Buoyancy Management
+**Date:** May 2024  
+Developing a capsule capable of floating and operating underwater, utilizing buoyancy management techniques. This capsule will be integrated with an amphibious drone, enabling it to function in the air, on water, and underwater.  
+**Tools & Technologies Used:** Matlab, SolidWorks, Robot Operating System, Arduino, Sensor Integration  
+
+---
+
+### Perception of Unknown Environment, Path Planning, Obstacle Avoidance, and Autonomous Navigation
+This project aimed to create a simulated campus environment in Gazebo. A robot was employed to sense this environment and create a map, adapting to environmental changes. After perception, the robot performed path planning to guide others from one location to another. This is a simulation-based project for Autonomous Systems.
+
+---
+
+### Leader-Follower Formation Control of Non-Holonomic Mobile Robots
+Key aspects of this project include:
+
+- Understanding the kinematics of differential drive wheeled mobile robots (WMRs)
+- Modeling the leader-follower formation using relative distance and angle between robots
+- Designing Lyapunov-based controllers for position, velocity, and orientation control
+- Simulating line and circular formations using the derived control laws  
+
+**Skills:** Robotic Kinematics, Formation Control, Lyapunov Stability Analysis, Simulation and Visualization using Matlab, Problem-Solving, and Mathematical Modeling  
+
+---
+
+### Voice-Controlled Smart Home Automation System with Sensor Integration
+Developed a voice-controlled smart home system using an Arduino Nano 33 BLE Sense microcontroller. Key features included:
+
+- Implementing a word recognition system for appliance control
+- Integrating environmental sensors (temperature, humidity, light)
+- Utilizing relays to connect low-power signals to appliances
+- Deploying machine learning models with TensorFlow Lite for Microcontrollers  
+
+The result was an intelligent, sensor-driven home automation solution.  
+**Skills:** Hardware-Software Integration, Voice Recognition, Machine Learning Integration, Sensor Integration, Embedded System Design  
+
+---
+
+### Underwater Pipeline Detection using Computer Vision
+Designed and implemented a novel pipeline detection system by integrating various computer vision algorithms and filters, including:
+
+- LAB color space conversion
+- Gaussian blurring
+- Adaptive histogram equalization
+- Canny edge detection
+- Morphological operations
+- Probabilistic Hough transform
+- Adaptive region of interest selection  
+
+This approach led to improved detection accuracy.  
+
+---
+
+Feel free to reach out for collaboration or inquiries related to these projects!
+
+
