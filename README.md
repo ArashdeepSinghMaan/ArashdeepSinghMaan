@@ -63,7 +63,7 @@ The result was an intelligent, sensor-driven home automation solution.
 
 ---
 
-### Underwater Pipeline Detection using Computer Vision
+### [Underwater Pipeline Detection using Computer Vision](https://github.com/ArashdeepSinghMaan/-Underwater-Pipeline-Detection-using-computer-vision/tree/main)
 Designed and implemented a novel pipeline detection system by integrating various computer vision algorithms and filters, including:
 
 - LAB color space conversion
