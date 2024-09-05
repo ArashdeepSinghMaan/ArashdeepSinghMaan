@@ -26,7 +26,7 @@ I am passionate about advancing agricultural standards through cutting-edge robo
 
 ## Projects
 
-### [Development of an Underwater Vehicle and Depth Control System through Active Buoyancy Management](https://www.example.com "Optional Title")
+### [Development of an Underwater Vehicle and Depth Control System through Active Buoyancy Management]()
 **Date:** May 2024  
 Developing a capsule capable of floating and operating underwater, utilizing buoyancy management techniques. This capsule will be integrated with an amphibious drone, enabling it to function in the air, on water, and underwater.  
 **Tools & Technologies Used:** Matlab, SolidWorks, Robot Operating System, Arduino, Sensor Integration  
@@ -38,7 +38,7 @@ This project aimed to create a simulated campus environment in Gazebo. A robot w
 
 ---
 
-### Leader-Follower Formation Control of Non-Holonomic Mobile Robots
+### [Leader-Follower Formation Control of Non-Holonomic Mobile Robots](https://github.com/ArashdeepSinghMaan/Leader-Follower-Formation-Control)
 Key aspects of this project include:
 
 - Understanding the kinematics of differential drive wheeled mobile robots (WMRs)
@@ -50,7 +50,7 @@ Key aspects of this project include:
 
 ---
 
-### Voice-Controlled Smart Home Automation System with Sensor Integration
+### [Voice-Controlled Smart Home Automation System with Sensor Integration](https://github.com/ArashdeepSinghMaan/Embedded-System-Design/tree/Voice-Controlled-Smart-Home-Automation-System-with-Sensor-Integration)
 Developed a voice-controlled smart home system using an Arduino Nano 33 BLE Sense microcontroller. Key features included:
 
 - Implementing a word recognition system for appliance control
