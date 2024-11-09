@@ -26,7 +26,9 @@ I am passionate about advancing agricultural standards through cutting-edge robo
 
 ## Projects
 
-### [Development of an Underwater Vehicle and Depth Control System through Active Buoyancy Management](https://github.com/ArashdeepSinghMaan/Underwater-Vehicle)
+### [Development of Multi-Agent
+Coordination and Control for
+Surface and Underwater Vehicles](https://github.com/ArashdeepSinghMaan/Underwater-Vehicle)
 **Date:** May 2024  
 Developing a capsule capable of floating and operating underwater, utilizing buoyancy management techniques. This capsule will be integrated with an amphibious drone, enabling it to function in the air, on water, and underwater.  
 **Tools & Technologies Used:** Matlab, SolidWorks, Robot Operating System, Arduino, Sensor Integration  
