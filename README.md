@@ -28,7 +28,7 @@ I am passionate about advancing agricultural standards through cutting-edge robo
 
 ### [Development of Multi-Agent Coordination and Control for Surface and Underwater Vehicles](https://github.com/ArashdeepSinghMaan/Development-of-Multi-Agent-Coordination-and-Control-for-Surface-and-Underwater-Vehicles)
 **Date:** May 2024  
-# Objectives
+#### Objectives
 
 - **Modeling of AUV, ASV**: 
     - Creating accurate models to represent both the autonomous underwater vehicle (AUV) and the autonomous surface vehicle (ASV) dynamics is crucial for simulating real-world behavior, enabling effective depth and orientation control.
