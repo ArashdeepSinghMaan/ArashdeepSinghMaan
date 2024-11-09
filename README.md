@@ -48,7 +48,15 @@ I am passionate about advancing agricultural standards through cutting-edge robo
 **Tools & Technologies Used:** Matlab, SolidWorks, Robot Operating System, Arduino, Sensor Integration  
 
 ---
+### [Robot Arm bin picking using Depth Camera, YOLOv5,GPD, ROS2](https://github.com/ArashdeepSinghMaan/Bin-Picking)
+This project presents an integrated robotic bin-picking system that uses advanced computer vision techniques and ROS2 for real-time object detection, pose estimation, and grasp planning. The system utilizes YOLO for detecting objects in RGB images, Point Cloud Library (PCL) for estimating the orientation and position  from depth data, and Grasp Pose Detection (GPD) calculate grasp points. These components enable the robot to perform efficient and reliable pick-and-place tasks. The entire process is modularized within ROS2, ensuring smooth communication MoveIt! is used for motion planning and execution.
 
+---
+### [Designing a Light-Weight CNN based Model for Crop Disease Detection](https://github.com/ArashdeepSinghMaan/Machine-Learning/tree/main/Designing%20a%20Light-Weight%20CNN%20based%20Model%20%20for%20Crop%20Disease%20Detection)
+Our lightweight model is designed to offer on-field disease detection, improving both accessibility and efficiency for agricultural applications. This model is a neural network inspired by the MobileNetV3 architecture and is specifically tailored for resource-constrained environments such as mobile and edge devices.
+
+
+---
 ### [Perception of Unknown Environment, Path Planning, Obstacle Avoidance, and Autonomous Navigation](https://github.com/ArashdeepSinghMaan/Robot-Operating-System/tree/PERCEPTION-OF-UNKNOWN-ENVIRONMENT-%2CPATH-PLANNING%2COBSTACLE-AVOIDANCE-AND-AUTONOMOUS-NAVIGATION)
 This project aimed to create a simulated campus environment in Gazebo. A robot was employed to sense this environment and create a map, adapting to environmental changes. After perception, the robot performed path planning to guide others from one location to another. This is a simulation-based project for Autonomous Systems.
 
