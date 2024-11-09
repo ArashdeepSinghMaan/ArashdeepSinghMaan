@@ -102,6 +102,7 @@ This approach led to improved detection accuracy.
 
 ---
 
-Feel free to reach out for collaboration or inquiries related to these projects! ###[LinkedIn] (https://www.linkedin.com/in/arashdeep-singh-7a8b631a5)
+Feel free to reach out for collaboration or inquiries related to these projects! 
+###[LinkedIn] (https://www.linkedin.com/in/arashdeep-singh-7a8b631a5)
 
 
