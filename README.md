@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -  Skills
 -->
 - 👯 I’m looking to collaborate on  Robotics Projects
-- 🛠️ [Resume](https://github.com/ArashdeepSinghMaan/ArashdeepSinghMaan/blob/4266019f8d6ecf2fae52f5064157181196b6c3c9/RESUME_PROFILE_ROBOTICS%20(2).pdf)
+- 🛠️ [Resume](https://github.com/ArashdeepSinghMaan/ArashdeepSinghMaan/blob/286f0577803dec44dc8f4a5a369998d437ca0ae4/RESUME_PROFILE_ROBOTICS%20.pdf)
 
 ## Background
 Currently pursuing an M.Tech in Robotics and Mobility Systems at IIT Jodhpur, I am deeply committed to integrating advanced robotics with agricultural practices to drive innovation and sustainability. My journey from Agricultural Entrepreneur and Manager to robotics engineer reflects a focused dedication to leveraging technology for transformative impact in agriculture.
