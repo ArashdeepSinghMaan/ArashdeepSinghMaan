@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -  Skills
 -->
 - 👯 I’m looking to collaborate on  Robotics Projects
+- [Resume](RESUME_PROFILE_ROBOTICS (2).pdf)
 
 ## Background
 Currently pursuing an M.Tech in Robotics and Mobility Systems at IIT Jodhpur, I am deeply committed to integrating advanced robotics with agricultural practices to drive innovation and sustainability. My journey from Agricultural Entrepreneur and Manager to robotics engineer reflects a focused dedication to leveraging technology for transformative impact in agriculture.
