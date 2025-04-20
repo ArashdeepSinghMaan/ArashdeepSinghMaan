@@ -28,7 +28,7 @@ I am passionate about advancing agricultural standards through cutting-edge robo
 ## Projects
 
 ### [Development of Multi-Agent Coordination and Control for Surface and Underwater Vehicles](https://github.com/ArashdeepSinghMaan/Development-of-Multi-Agent-Coordination-and-Control-for-Surface-and-Underwater-Vehicles)
-**Date:** May 2024  
+**Date:** April 2025  
 #### Objectives
 
 - **Modeling of AUV, ASV**: 
