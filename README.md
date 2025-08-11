@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 - 🛠️ [Resume](https://github.com/ArashdeepSinghMaan/ArashdeepSinghMaan/blob/286f0577803dec44dc8f4a5a369998d437ca0ae4/RESUME_PROFILE_ROBOTICS%20.pdf)
 
 ## Background
-Currently pursuing an M.Tech in Robotics and Mobility Systems at IIT Jodhpur, I am deeply committed to integrating advanced robotics with agricultural practices to drive innovation and sustainability. My journey from Agricultural Entrepreneur and Manager to robotics engineer reflects a focused dedication to leveraging technology for transformative impact in agriculture.
+Currently pursuing an M.Tech in Robotics and Mobility Systems at IIT Jodhpur, I am deeply committed to integrating advanced robotics with agricultural practices to drive innovation and sustainability. My journey from Agricultural Entrepreneur and Manager to robotics engineer reflects a focused dedication to leveraging technology for transformative impact in the world.
 
 With a B.Tech in Mechanical Engineering, I bring a robust foundation in engineering principles that enhances my approach to developing efficient, eco-friendly solutions. My experience at Nestlé, where I optimized warehouse layouts to boost productivity, further honed my skills in industrial engineering. I am proficient in Mathematical Modeling and Simulation, ROS, Sensor Integration, Robot Programming, Path Planning, Computer Vision, Artificial Intelligence, experimental research, and data analysis. I hold certifications and have completed projects in MATLAB, Python, Machine Learning, and SOLIDWORKS, which equip me to tackle the complexities of robotics applications.
 
-I am passionate about advancing agricultural standards through cutting-edge robotics, striving to create sustainable solutions that address global challenges and have a lasting impact on the industry.
+I am passionate about advancing working standards through cutting-edge robotics, striving to create sustainable solutions that address global challenges and have a lasting impact on the industry.
 
 ## Projects
 
